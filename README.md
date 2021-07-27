@@ -10,7 +10,7 @@ Python이 미설치이신분들은 exe 파일을 사용해주시고 Python 설�
 
 바이러스 토탈 검사 결과 : 
 Python 파일 : https://www.virustotal.com/gui/file/1b38e95e09d9d36f2d3b9a15eb228a36354ac3fd9db84e05baf5d359651e8b43/detection
-EXE 파일 : https://www.virustotal.com/gui/file/27f1e37c65dd42bd8b7bf9b84bd3a7f71bd0e4149ca9386ffc9d0c56c26cc57a/detection **바이러스가 아닙니다!!**
+EXE 파일 : https://www.virustotal.com/gui/file/627642ccb11e9002405a5a5c296189972009bdcece492f5b9cbe90201038bbb1/detection **바이러스가 아닙니다!!**
 
 # RandomNumberGames
 Random Number Games! My First Game! Make by Python
@@ -24,7 +24,7 @@ If you do not have Python installed, use the exe file, and if you have installed
 
 Virus Total : 
 Python File : https://www.virustotal.com/gui/file/1b38e95e09d9d36f2d3b9a15eb228a36354ac3fd9db84e05baf5d359651e8b43/detection
-EXE File : https://www.virustotal.com/gui/file/27f1e37c65dd42bd8b7bf9b84bd3a7f71bd0e4149ca9386ffc9d0c56c26cc57a/detection **Not Virus!!!**
+EXE File : https://www.virustotal.com/gui/file/627642ccb11e9002405a5a5c296189972009bdcece492f5b9cbe90201038bbb1/detection **Not Virus!!!**
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
